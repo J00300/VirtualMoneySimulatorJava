@@ -1,4 +1,4 @@
-# 가상화폐 시뮬레이터-ProjectVMS.exe
+# 가상화폐 투자 시뮬레이터-ProjectVMS.exe
 
 
 ### 주요 기능
